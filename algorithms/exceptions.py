@@ -1,0 +1,4 @@
+
+
+class APIBrokenError(Exception):
+    pass
